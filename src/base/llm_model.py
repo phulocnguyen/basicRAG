@@ -8,8 +8,8 @@ nf4_config = BitsAndBytesConfig(
     bnb_4bit_use_double_quant=True, 
     bnb_4bit_compute_dtype=torch.bfloat16)
 
-def get_LLM(model_name: str = "mistralai/Mistral -7B-Instruct -v0.2",
-            max_new_token=1024,
+def get_LLM(model_name: str = "google/gemma-2-2b-jpn-it",
+            max_new_tokens=1024,
             **kwargs):
     model = AutoModelForCausalLM.from_pretrained(
         model_name, 
@@ -20,10 +20,10 @@ def get_LLM(model_name: str = "mistralai/Mistral -7B-Instruct -v0.2",
     tokenizer = AutoTokenizer.from_pretrained(model_name)
 
     model_pipeline = pipeline(
-        "text_generation",
+        "text-generation",
         model=model,
         tokenizer=tokenizer,
-        max_new_token = max_new_token,
+        max_new_tokens=max_new_tokens,
         pad_token_id=tokenizer.eos_token_id
     )
     llm = HuggingFacePipeline(pipeline=model_pipeline, model_kwargs=kwargs)
