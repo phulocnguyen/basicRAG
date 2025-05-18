@@ -23,6 +23,7 @@ To get started, clone this repository and install the required dependencies:
 git clone https://github.com/phulocnguyen/basicRAG.git
 cd basicRAG
 pip install -r requirements.txt
+```
 
 ## Usage
 Enter the query at run.py and run 
