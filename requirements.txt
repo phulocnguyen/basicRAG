@@ -9,7 +9,6 @@ langchain-community==0.0.31
 pypdf ==4.2.0 
 sentence-transformers==2.6.1 
 beautifulsoup4 ==4.12.3 
-`langserve[all]
 chromadb ==0.4.24 
 langchain-chroma==0.1.0 
 faiss-cpu==1.8.0 
