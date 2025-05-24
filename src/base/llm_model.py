@@ -1,7 +1,7 @@
 from langchain_huggingface import HuggingFacePipeline
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 from langchain_community.llms import HuggingFacePipeline
-def get_hf_llm(model_name: str = "Qwen/Qwen3-4B", max_new_token=1024, **kwargs):
+def get_hf_llm(model_name: str = "Qwen/Qwen3-0.6B", max_new_token=128, **kwargs):
     tokenizer = AutoTokenizer.from_pretrained(model_name)
 
     model = AutoModelForCausalLM.from_pretrained(model_name)

@@ -10,7 +10,7 @@ class OutputQA(BaseModel):
     answer: str = Field(..., title="Answer from the model")
 
 def build_rag_chain(llm, data_dir, data_type):
-    doc_loaded = Loader(file_type=data_type).load_dir(data_dir, workers=2)
+    doc_loaded = Loader(file_type=data_type).load_dir(data_dir, workers=1)
     retriever = VectorDB(documents=doc_loaded).get_retriever()
     rag_chain = Offline_RAG(llm).get_chain(retriever)
     return rag_chain

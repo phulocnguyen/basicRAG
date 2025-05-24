@@ -2,6 +2,8 @@ from langchain import hub
 from langchain_core.runnables import RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
 import re
+from langchain_core.prompts import PromptTemplate
+
 
 class StrOutputParser(StrOutputParser):
     def __init__(self) -> None:
@@ -21,21 +23,21 @@ class StrOutputParser(StrOutputParser):
 class Offline_RAG:
     def __init__(self, llm) -> None:
         self.llm = llm
-        self.prompt = hub.pull("rlm/rag-prompt")
         self.str_parser = StrOutputParser()
 
     def get_chain(self, retriever):
+        prompt = PromptTemplate.from_template(
+        "Use the following context to answer the question concisely:\n\n{context}\n\nQuestion: {question}\nAnswer:"
+    )
         input_data = {
-            "context": lambda x: self.format_docs(x["retriever"]),
-            "question": RunnablePassthrough()
+        "context": retriever | self.format_docs,  
+        "question": lambda x: x  
         }
-        rag_chain = (
-            input_data
-            | self.prompt
-            | self.llm
-            | self.str_parser
-        )
-        return rag_chain
+        return input_data | prompt | self.llm | self.str_parser
 
     def format_docs(self, docs):
-        return "\n\n".join(doc.page_content for doc in docs)
+        context = "\n\n".join(doc.page_content for doc in docs)
+        print("=== Retrieved context ===")
+        print(context)
+        print("=========================")
+        return context

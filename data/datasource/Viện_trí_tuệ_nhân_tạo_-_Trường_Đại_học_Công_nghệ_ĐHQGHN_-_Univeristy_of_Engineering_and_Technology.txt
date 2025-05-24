@@ -1,0 +1,98 @@
+Based on the provided OCR text, here is a structured summary of the information about the Institute of Artificial Intelligence (IAI) at VNU-University of Engineering and Technology (VNU-UET):
+
+**1. Introduction (Tổng quan)**
+*   **Establishment:** Founded by Decision No. 162/QĐ-TCCB on March 18, 2022, by the Rector of VNU-UET.
+*   **English Name:** Institute for Artificial Intelligence (IAI).
+*   **Role:** A unit responsible for training, research, and technology development under VNU-UET.
+*   **Operation:** Operates according to the regulations of VNU-UET.
+
+**2. Mission (Sứ mệnh)**
+*   To train high-quality human resources with deep and advanced knowledge in Artificial Intelligence and related interdisciplinary fields.
+*   To research, develop, and apply AI in areas that benefit society.
+*   To contribute significantly to the development of VNU-UET, VNU Hanoi, and the national economy and knowledge society in the context of the 4th industrial revolution.
+
+**3. Vision (Tầm nhìn)**
+*   To become a leading unit in Vietnam in training high-quality human resources in Artificial Intelligence, conducting scientific research, and interdisciplinary technology transfer.
+
+**4. Organizational Structure (Cơ cấu tổ chức)**
+*   1. Institute Office (Văn phòng Viện)
+*   2. Science and Training Council (Hội đồng khoa học đào tạo)
+*   3. Machine Learning Lab (Phòng thí nghiệm Học máy)
+*   4. Natural Language Processing Lab (Phòng thí nghiệm Xử lý ngôn ngữ tự nhiên)
+*   5. Key Lab for Smart Integrated Systems (Phòng thí nghiệm trọng điểm Hệ thống tích hợp thông minh)
+
+**5. Staff (Đội ngũ cán bộ)**
+*   The document lists 25 staff members with their names, positions (e.g., Institute Director, Deputy Head of Lab, Senior Lecturer, Lecturer, Teaching Assistant, Office Specialist, Adjunct Lecturer), fields of expertise (e.g., Machine Learning, Image Processing, Natural Language Processing, Knowledge Systems, Smart Integrated Systems, Data Science, etc.), and email addresses.
+*   Examples of staff listed:
+    *   TS. Trần Quốc Long (Institute Director, Senior Lecturer) - Field: Machine Learning, Image Processing.
+    *   PGS.TS. Nguyễn Việt Hà (Senior Lecturer) - Field: AI, Machine Learning, Natural Language Processing.
+    *   PGS.TS. Nguyễn Phong Thái (Senior Lecturer) - Field: Natural Language Processing.
+    *   TS. Bùi Ngọc Thăng (Head of Lab) - Field: Machine Learning, Knowledge Systems.
+    *   TS. Nguyễn Thọ Ngọc Diệp (Deputy Head of Lab) - Field: Machine Learning, Image Processing.
+
+**6. Training Programs (Chương trình đào tạo Cử nhân)**
+
+*   **a) Bachelor Program in Artificial Intelligence (Trí tuệ nhân tạo)**
+    *   Vietnamese Name: Trí tuệ nhân tạo
+    *   English Name: Artificial Intelligence
+    *   Program Code: 7480207
+    *   Degree: Bachelor (Cử nhân)
+    *   Duration: 4 years
+    *   Degree Title (Vietnamese): Cử nhân ngành Trí tuệ nhân tạo
+    *   Degree Title (English): The Degree of Bachelor in Artificial Intelligence
+    *   Total Credits: 123 tín chỉ
+    *   **Objectives:** Train high-quality, specialized personnel capable of developing AI systems and advanced data analysis solutions, working in large Vietnamese and regional enterprises/organizations, and meeting the demand for high-quality human resources in AI and Data Science.
+    *   **Program Learning Outcomes (Chuẩn đầu ra):** 14 outcomes covering foundational knowledge (basic science, social science, IT), application of core knowledge, problem-solving, linking interdisciplinary knowledge, system thinking, professional ethics, lifelong learning, teamwork, communication (Vietnamese & English - CEFR B1/6 equivalent), practical application/development, leadership, and adhering to laws/ethics.
+
+*   **b) Bachelor Program in Data Science (Khoa học dữ liệu)**
+    *   Vietnamese Name: Khoa học dữ liệu
+    *   English Name: Data Science
+    *   Program Code: 7460108
+    *   Degree: Bachelor (Cử nhân)
+    *   Duration: 4 years
+    *   Degree Title (Vietnamese): Cử nhân khoa học ngành Khoa học dữ liệu
+    *   Degree Title (English): The Degree of Bachelor of Science in Data Science
+    *   Total Credits: 130 tín chỉ
+    *   **Objectives:** Train graduates with strong foundations in math and basic science, IT, core and specialized knowledge in Data Science, interdisciplinary knowledge, and basic social science understanding, capable of researching, developing data systems and solutions in various settings (universities, research institutes, enterprises, etc.).
+    *   **Program Learning Outcomes (Chuẩn đầu ra):** 13 outcomes covering foundational knowledge, application of core knowledge, linking interdisciplinary knowledge, system thinking, professional ethics, lifelong learning, teamwork, communication (Vietnamese & English - CEFR B1/6 equivalent), practical application/development, leadership/innovation, and impact on society/business context.
+
+**7. Admissions (Tuyển sinh)**
+*   **Enrollment Targets (Chỉ tiêu tuyển sinh):**
+    *   CN12 (likely AI): 300 (2025), 240 (2024), 130 (2023), 180 (2022).
+    *   CN20 (likely Data Science): 120 (2025).
+*   **Admission Method:** Xét tuyển (Method based on admission criteria - link provided).
+
+**8. Students (Sinh viên)**
+*   Lists student numbers by cohort and specific groups (AI1, AI2, etc., and Tích hợp - Integrated):
+    *   K69 (2024): AI1-AI4 (42 each), AI5-AI6 (41 each), Tích hợp (28).
+    *   K68 (2023): AI1 (62), AI2 (62), Tích hợp (27).
+    *   K67 (2022): AI1 (85), AI2 (86), Tích hợp (31).
+
+**9. Collaborations (Hợp tác)**
+*   Lists partners, including:
+    *   Oraichain Labs (Công ty Cổ phần)
+    *   GEM (Công ty Cổ phần)
+    *   ViettelX (Viễn thông Hàng không Vũ trụ Viettel)
+    *   HBLabs (Công ty Cổ phần)
+    *   Dai Nippon Printing, Japan
+    *   SmartOSC (Công ty)
+    *   VIASM (Viện nghiên cứu cao cấp về Toán)
+    *   JAIST (Trung tâm nghiên cứu Trí tuệ nhân tạo giải thích được, Viện Khoa học Công nghệ Tiên tiến Nhật Bản) - Interpretable AI Center.
+
+**10. Research Areas (Khoa học công nghệ)**
+*   Current research directions include:
+    *   1. Life-long learning with AI (Trí tuệ nhân tạo hỗ trợ học tập suốt đời)
+    *   2. Medical image processing (Xử lý ảnh y tế)
+    *   3. Natural language processing (Xử lý ngôn ngữ tự nhiên)
+    *   4. Smart integrated systems (Các hệ thống tích hợp thông minh)
+
+**11. Contact Information (Liên hệ)**
+*   **Address:** E3, 144 Xuân Thủy, Cầu Giấy, Hà Nội
+*   **Website:** https://uet.vnu.edu.vn/vien-tri-tue-nhan-tao/
+*   **Fanpage:** https://www.facebook.com/iaiuet/
+*   **Phone:** 024.37547.461
+*   **Fax:** 024.37547.460
+*   **Email:** uet@vnu.edu.vn
+
+**12. Other Sections**
+*   The document also includes links to News, Video/Photo Gallery, broader Collaboration/Development information, Quality Assurance details, information about Centers, and student/staff organizations (Union, Youth Union, Student Association).

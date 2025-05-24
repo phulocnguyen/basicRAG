@@ -1,14 +1,14 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from langserve import add_routes
-from base.llm_model import get_hf_llm
-from rag.main import build_rag_chain, InputQA, OutputQA
+from src.base.llm_model import get_hf_llm
+from src.rag.main import build_rag_chain, InputQA, OutputQA
 
 llm = get_hf_llm(temperature=0.9)
-genai_docs = "/Users/phulocnguyen/Documents/Workspace/basicRAG/datasource/gen_ai"
+genai_docs = "./data/datasource"
 
 # -------- Chains --------
-genai_chain = build_rag_chain(llm, data_dir=genai_docs, data_type="pdf")
+genai_chain = build_rag_chain(llm, data_dir=genai_docs, data_type="txt")
 
 # -------- App - FastAPI --------
 app = FastAPI(
@@ -31,7 +31,7 @@ app.add_middleware(
 async def check():
     return {"status": "ok"}
 
-@app.post("/gen_ai", response_model=OutputQA)
+@app.post("/generative_ai", response_model=OutputQA)
 async def generative_ai(inputs: InputQA):
     answer = await genai_chain.ainvoke(inputs.question)
     return {"answer": answer}
@@ -41,5 +41,5 @@ add_routes(
     app,
     genai_chain,
     playground_type="default",
-    path="/gen_ai",
+    path="/generative_ai",
 )
