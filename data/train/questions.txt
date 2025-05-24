@@ -1,25 +1,400 @@
-Trường Đại học Công nghệ được thành lập năm nào?
-Hiệu trưởng hiện tại của Trường là ai?
-Có bao nhiêu sinh viên đại học?
-Khẩu hiệu của Trường là gì?
-Địa chỉ của Trường là gì?
-Quy chế này điều chỉnh và áp dụng cho những đối tượng nào trong công tác tuyển sinh đại học chính quy tại ĐHQGHN?
-Phạm vi tuyển sinh được iểu như thế nào trong Quy chế này?
-Đơn vị đào tạo là gì theo quy định trong Quy chế?
-Dự tuyển được hiểu như thế nào trong Quy chế tuyển sinh?
-Xét tuyển là gì và quy trình xét tuyển được thực hiện ra sao?
-Ngưỡng đầu vào được định nghĩa như thế nào?
-Xét tuyển thẳng là gì và áp dụng theo quy định nào?
-Tiêu chí xét tuyển gồm những yếu tố nào?
-Điểm trúng tuyển được xác định như thế nào?
-Thi trực tiếp và thi trực tuyến khác nhau ra sao?
-Hệ thống hỗ trợ tuyển sinh chung của Bộ GD&ĐT có chức năng gì?
-Mã trường và mã xét tuyển được dùng để làm gì?
-Yêu cầu chung trong tuyển sinh được Quy chế quy định như thế nào?
-Nguyên tắc công bằng đối với thí sinh trong tuyển sinh gồm những gì?
-Bình đẳng giữa các đơn vị đào tạo được thể hiện qua những điểm nào?
-Đơn vị đào tạo cần thực hiện trách nhiệm gì về minh bạch đối với xã hội?
-Đối tượng dự tuyển được xác định như thế nào tại thời điểm xét tuyển?
-Điều kiện dự tuyển gồm những yêu cầu gì?
-Các phương thức tuyển sinh chính được nêu trong Quy chế là gì?
-Nguyên tắc xét tuyển và tỉ lệ phân bổ chỉ tiêu được thực hiện ra sao?
+Chuẩn đầu ra của chương trình đào tạo tiến sĩ tập trung vào những yếu tố nào?
+Những quy định nào bị bãi bỏ sau khi Quy chế này có hiệu lực?
+Đại học Quốc gia Hà Nội có bao nhiêu chương trình đào tạo đã được kiểm định AUN và chương trình liên kết đào tạo quốc tế?
+Ai là người ký và ban hành Quyết định số 4555/QĐ-ĐHQGHN?
+Hình thức đào tạo tiến sĩ được tổ chức như thế nào?
+Thành viên hội đồng thẩm định đề án mở ngành đào tạo cấp ĐHQGHN gồm những ai?
+Đại học Quốc gia Hà Nội đã được trao tặng bao nhiêu Huân chương Hồ Chí Minh?
+Việc cập nhật, điều chỉnh các học phần thuộc khối kiến thức chung (khối kiến thức M1) và khối kiến thức theo lĩnh vực (khối kiến thức M2), khối kiến thức theo khối ngành (khối kiến thức M3) do ai thẩm định và quyết định ban hành?
+Điều kiện về đội ngũ giảng viên cho 02 năm học đầu tiên của chương trình đào tạo trình độ đại học là gì?
+Trong bao lâu sau khi bắt đầu học kỳ chính, sinh viên được phép rút bớt học phần đã đăng ký và được hoàn trả học phí?
+Thời hạn gửi nhận xét luận án của phản biện độc lập là bao lâu?
+Theo điều kiện nêu trong văn bản, giảng viên cần đáp ứng những tiêu chí nào để trở thành giáo viên chủ nhiệm?
+Quyết định số 131/QĐ-CTSV áp dụng cho đối tượng nào?
+Trường Quốc tế và Trường Quản trị và Kinh doanh được thành lập vào ngày nào và trên cơ sở nào?
+Theo Điều 19, những ai không được tham gia hội đồng tuyển sinh hoặc các ban giúp việc?
+ĐHQGHN có diện tích khuôn viên bao nhiêu?
+Theo Điều 44, khoản 2, tiêu chuẩn đối với giảng viên giảng dạy chương trình đào tạo thạc sĩ là gì?
+Những trường hợp nào được miễn kiểm tra tiếng Việt hoặc ngoại ngữ khi chuyển trường về Đại học Quốc gia Hà Nội?
+Ai chịu trách nhiệm tổ chức bổ sung kiến thức và cấp giấy chứng nhận cho thí sinh đã hoàn thành chương trình bổ sung kiến thức?
+Những tài liệu nào liên quan đến công tác đào tạo được lưu trữ vĩnh viễn tại đơn vị đào tạo?
+Sinh viên chứa chấp, buôn bán vũ khí, chất nổ và hàng cấm theo quy định của Nhà nước sẽ bị xử lý như thế nào?
+Điều kiện về ngân hàng đề thi đối với các hình thức thi khác (không phải tự luận) là gì?
+Trách nhiệm của đơn vị đào tạo trong việc thực hiện Quy chế đào tạo đại học tại Đại học Quốc gia Hà Nội là gì?
+Điều 47 nêu những quyền lợi nào của học viên?
+Điểm đạt yêu cầu của chuyên đề tiến sĩ và tiểu luận tổng quan là bao nhiêu?
+Trong thời gian bao lâu kể từ ngày ban hành quyết định mở ngành đào tạo, đơn vị phải công khai trên trang thông tin điện tử của đơn vị những nội dung nào?
+Khi chuyển sang học chương trình đào tạo chuẩn chính quy, các học phần nâng cao, bổ sung được xử lý như thế nào?
+Đại học Quốc gia Hà Nội có bao nhiêu Nhà giáo Nhân dân tính đến ngày 31/12/2022?
+Ứng viên phải học bổ sung kiến thức trước khi dự thi trong trường hợp nào?
+Trách nhiệm của đơn vị đào tạo, đơn vị thụ lý hồ sơ đánh giá luận án đối với thông tin của phản biện độc lập là gì?
+Ai được phân công làm cố vấn học tập cho sinh viên?
+Ban nào chịu trách nhiệm triển khai hoạt động nghiên cứu khoa học của sinh viên và đề nghị khen thưởng sinh viên có thành tích xuất sắc?
+Quy chế đào tạo đại học tại Đại học Quốc gia Hà Nội (ban hành kèm theo Quyết định số 3626/QĐ-ĐHQGHN) áp dụng cho những đối tượng nào?
+Đơn vị đào tạo chịu sự kiểm tra, thanh tra, giám sát của những cơ quan nào?
+Một số đối tượng được ưu tiên trong tuyển sinh đào tạo thạc sĩ là ai?
+Quy chế đào tạo tiến sĩ tại Đại học Quốc gia Hà Nội được đề cập trong văn bản nào?
+Sinh viên bị kỷ luật ở mức buộc thôi học được đánh giá rèn luyện như thế nào?
+Tỷ lệ tối đa kết quả học tập, nghiên cứu được công nhận và chuyển đổi trong trường hợp chuyển đơn vị đào tạo hoặc là nghiên cứu sinh mới là bao nhiêu?
+Văn bản định nghĩa "Nhóm ngành đào tạo" như thế nào?
+Theo văn bản, điều kiện nào được yêu cầu đối với tạp chí khoa học chuyên ngành để được công nhận?
+Ban nào chủ trì công tác thanh tra, kiểm tra công tác sinh viên tại Đại học Quốc gia Hà Nội?
+Công thức tính điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích lũy là gì?
+Hồ sơ đề án mở ngành đào tạo đề nghị thẩm định cấp ĐHQGHN bao gồm những thành phần nào?
+Đối với chương trình đào tạo thí điểm, sau 2 năm được phép tổ chức thực hiện, đơn vị tổ chức phải làm gì?
+Trong trường hợp đơn vị không thể tổ chức bảo vệ khóa luận, đồ án trực tiếp, việc tổ chức bảo vệ và đánh giá được thực hiện như thế nào?
+Môn học Hóa hữu cơ có mã số bao nhiêu trong bảng?
+Ai là người ký Quyết định số 3636/QĐ-ĐHQGHN?
+Nếu luận văn không đạt yêu cầu, học viên sẽ được làm gì?
+Quyết định số 798/QĐ-ĐHCN được ban hành nhằm mục đích gì?
+Ai chịu trách nhiệm xây dựng định mức học phí cho một tín chỉ và hệ số học phí của từng học phần?
+Phụ lục văn bằng cấp cho nghiên cứu sinh bao gồm những thông tin gì?
+Những tài liệu nào cần thiết để tổ chức họp Hội đồng đánh giá luận án tiến sĩ?
+Theo Điều 41, điểm đánh giá bộ phận và điểm thi kết thúc học phần được chấm theo thang điểm nào?
+Trong trường hợp đặc biệt, đơn vị cần báo cáo với ai để xem xét quyết định?
+Thủ trưởng các đơn vị đào tạo tại Đại học Quốc gia Hà Nội có trách nhiệm gì liên quan đến công tác sinh viên?
+Sinh viên chuyển trường về Đại học Quốc gia Hà Nội cần đạt trình độ tiếng Việt hoặc ngoại ngữ như thế nào?
+Sinh viên không đủ điều kiện tốt nghiệp sẽ nhận được gì?
+Theo Điều 39, Quy chế này, báo cáo đề án tốt nghiệp của chương trình định hướng ứng dụng cần đáp ứng những yêu cầu nào?
+Ai chịu trách nhiệm về chất lượng đào tạo và giá trị văn bằng do đơn vị cấp?
+Chương trình đào tạo tài năng được thiết kế nhiều hơn chương trình đào tạo chuẩn tương ứng bao nhiêu tín chỉ?
+Học viên được phép đăng ký học và thi các học phần do đơn vị đào tạo nào tổ chức?
+Chỉ tiêu tuyển sinh của một năm học có được chuyển sang năm học sau không?
+Ngôn ngữ chính thức dùng trong đào tạo tiến sĩ là gì? Trường hợp ngoại lệ được quyết định như thế nào?
+Điều kiện nào dẫn đến việc dừng xét tốt nghiệp đối với sinh viên?
+Có bao nhiêu bác sĩ Sản phụ khoa?
+Những đối tượng nào được miễn toàn bộ học phần Giáo dục quốc phòng - an ninh?
+Thời gian đào tạo tiến sĩ tối đa có thể kéo dài bao lâu?
+Đơn vị đào tạo cảnh báo cho những học viên nào đầu mỗi học kỳ (từ học kỳ thứ 2 trở đi)?
+Thí sinh thuộc diện xét trúng tuyển phải đạt điều kiện gì?
+Có bao nhiêu ngành đào tạo trình độ đại học thuộc lĩnh vực Nghệ thuật được liệt kê trong Bảng 1?
+Hội đồng đánh giá kết quả thực hiện đề án cần có tối thiểu bao nhiêu thành viên và những ai?
+Bảng trên thể hiện thông tin gì?
+Điểm thưởng cho công trình nghiên cứu khoa học của sinh viên được sử dụng như thế nào?
+Điều nào trong văn bản đề cập đến việc xây dựng đề án mở ngành đào tạo?
+Ai có trách nhiệm xác nhận kết quả nghiên cứu và duyệt luận văn/đề án của học viên, và đề nghị đơn vị đào tạo cho học viên bảo vệ luận văn?
+Học viên phải trình bày nội dung, kế hoạch nghiên cứu đề tài luận văn trước đơn vị chuyên môn chậm nhất bao lâu sau khi nhận đề tài?
+Quy chế này (đề cập trong văn bản) có hiệu lực từ khi nào và thay thế cho quy chế nào?
+Điều kiện về số lượng tiến sĩ giảng viên cơ hữu để chủ trì giảng dạy chương trình đào tạo trình độ đại học là bao nhiêu?
+Ai là người ký trên Bằng Tiến sĩ của Đại học Quốc gia Hà Nội?
+Điều gì sẽ xảy ra với điểm và số tín chỉ của nghiên cứu sinh khi chuyển đơn vị đào tạo?
+Thủ trưởng đơn vị đào tạo có trách nhiệm gì liên quan đến việc xử lý vi phạm của các cá nhân?
+Chỉ tiêu tuyển sinh của mỗi năm được sử dụng như thế nào?
+Phụ lục 2 kèm theo văn bản nào?
+Trong bảng dữ liệu, lĩnh vực nào được đánh dấu 'X' ở cả cột 14 và 17?
+Những ngành đào tạo nào thuộc lĩnh vực Mỹ thuật được đề cập trong Bảng 1?
+Hồ sơ báo cáo ĐHQGHN (trước khi hiệu trưởng các trường đại học thành viên quyết định ban hành chương trình đào tạo điều chỉnh) gồm những gì?
+Theo quy định tại Chương VII, Điều 48, học phí của học viên thạc sĩ được tính toán và thu như thế nào?
+Theo Điều 8, điều kiện nào liên quan đến số lượng và tiêu chuẩn của người hướng dẫn nghiên cứu sinh khi mở ngành đào tạo trình độ tiến sĩ?
+Hội đồng đánh giá luận văn gồm bao nhiêu thành viên và các thành viên đó là ai?
+Định mức học bổng khuyến khích học tập (KKHT) được công bố như thế nào?
+Điểm trung bình chung học kỳ được dùng để làm gì?
+Viện Đại học Đông Dương, được thành lập năm nào, có mối liên hệ như thế nào với Đại học Quốc gia Hà Nội?
+Theo quy định tại Chương VII, Điều 48, nguồn tài chính cho đào tạo thạc sĩ tại Đại học Quốc gia Hà Nội bao gồm những nguồn nào?
+Quyết định số 4555/QĐ-ĐHQGHN được ban hành nhằm mục đích gì?
+Điều kiện nào dẫn đến việc luận án không được thông qua trong quá trình bỏ phiếu?
+Kết quả đánh giá các học phần điều kiện (giáo dục thể chất, giáo dục quốc phòng – an ninh và kĩ năng bổ trợ) có được tính vào điểm trung bình chung hay không?
+Việc hoàn thiện luận án và nộp hồ sơ sau bảo vệ luận án trước Hội đồng muộn từ 03 tháng trở lên sẽ dẫn đến hậu quả gì?
+Hồ sơ trình ĐHQGHN để ĐHQGHN thẩm định và quyết định ban hành chương trình đào tạo điều chỉnh gồm bao nhiêu quyển chương trình đào tạo và đề cương học phần?
+Quy chế công tác sinh viên tại ĐHQGHN được ban hành kèm theo quyết định số bao nhiêu và ngày nào?
+Số giờ giảng tối đa đối với một học phần trong một tuần và một ngày là bao nhiêu, theo quy định về thời khóa biểu?
+Điều kiện về số lượng tiến sĩ giảng viên cơ hữu ngành phù hợp để mở ngành đào tạo trình độ thạc sĩ là bao nhiêu?
+Lễ động thổ Trường Đại học Việt - Nhật thuộc Đại học Quốc gia Hà Nội diễn ra vào ngày nào và ai đã tham dự?
+Đơn vị thường trực của Ban chỉ đạo tuyển sinh sau đại học của Đại học Quốc gia Hà Nội là gì?
+Văn bản nào được sử dụng làm cơ sở pháp lý cho Quyết định số 3638/QĐ-ĐHQGHN?
+Một giờ tín chỉ tự học bắt buộc bằng bao nhiêu tiết tự học và có được kiểm tra đánh giá không?
+Trường Đại học Kinh tế được thành lập vào ngày nào và trên cơ sở nào?
+Theo Điều 35, một trong những điều kiện để đánh giá luận văn là gì liên quan đến trình độ ngoại ngữ?
+Điều 4 nêu rõ bao nhiêu loại hình thức dạy học?
+Việc thẩm định sự phù hợp nội dung bài báo với đề tài nghiên cứu của luận án do ai thực hiện?
+Nếu hồ sơ kiểm tra quá trình đào tạo không đạt yêu cầu, đơn vị đào tạo phải làm gì?
+Liệt kê một số ngành đào tạo trình độ tiến sĩ thuộc lĩnh vực Nghệ thuật theo Bảng 3.
+Phần mềm đánh giá điểm rèn luyện được truy cập ở đâu?
+Theo Điều 5, mỗi học phần có khối lượng kiến thức bao nhiêu tín chỉ và được tổ chức giảng dạy trong bao lâu?
+Ai chịu trách nhiệm chỉ đạo thực hiện các nội dung công tác sinh viên trong toàn ĐHQGHN?
+Có bao nhiêu môn học được liệt kê trong bảng?
+Học phần tự chọn trong chương trình đào tạo tiến sĩ cần điều kiện gì để được chọn?
+Sinh viên nước ngoài hoặc Việt Nam muốn chuyển về học tại Đại học Quốc gia Hà Nội cần đáp ứng những điều kiện gì?
+Thời hạn hoàn thiện hồ sơ nhập trường và hồ sơ theo dõi quá trình học tập, rèn luyện của sinh viên là bao lâu?
+Bước 3 trong việc xây dựng đề án mở ngành đào tạo tập trung vào việc gì?
+Luận án tiến sĩ tối thiểu phải bao gồm những phần nào?
+Theo Điều 6, hình thức đào tạo thạc sĩ chính quy tại Đại học Quốc gia Hà Nội là gì?
+Các đơn vị đào tạo báo cáo Đại học Quốc gia Hà Nội danh sách và thông tin trích ngang của các nghiên cứu sinh bảo vệ luận án với tần suất như thế nào?
+Đề tài luận văn/đề án và cán bộ hướng dẫn được phê duyệt như thế nào?
+Thời hạn báo cáo kế hoạch và đề xuất chỉ tiêu tuyển sinh của các đơn vị đào tạo cho năm học tiếp theo là khi nào?
+Sinh viên không đủ điều kiện tốt nghiệp chương trình đào tạo tài năng, chất lượng cao được xử lý như thế nào?
+Phụ lục II kèm theo quyết định nào?
+Luận án không được thông qua trong cuộc họp đối thoại khi nào?
+Đại học Quốc gia Hà Nội có bao nhiêu đơn vị thực hiện nhiệm vụ đặc biệt?
+Điều kiện về nguồn lực khi mở ngành đào tạo mới đề cập đến những yếu tố nào?
+Mục tiêu đào tạo tiến sĩ tại Đại học Quốc gia Hà Nội theo Quy chế được nêu trong văn bản là gì?
+Thời gian theo kế hoạch học tập chuẩn toàn khóa đối với hình thức đào tạo vừa làm vừa học dài hơn bao nhiêu phần trăm so với hình thức đào tạo chính quy của cùng chương trình đào tạo?
+Công tác tổ chức và quản lý hoạt động nghiên cứu khoa học của sinh viên được phân cấp như thế nào?
+Những hành vi nào bị coi là gian lận trong học tập và nghiên cứu khoa học của sinh viên?
+Công tác tư vấn học tập tại ĐHQGHN bao gồm những nội dung nào?
+Đối với ngành đào tạo đã được mở nhưng trong thời gian bao lâu không tổ chức tuyển sinh hoặc không tuyển sinh đủ chỉ tiêu, quyết định mở ngành sẽ hết hiệu lực?
+Đơn vị đào tạo thông báo kết quả đăng ký học phần cho sinh viên khi nào?
+Ai cần ký và đóng dấu vào văn bản đồng ý tham gia đào tạo?
+Ai có quyền quyết định việc bảo vệ đề cương bằng tiếng nước ngoài và trong trường hợp nào?
+Có bao nhiêu ngành/chuyên ngành đào tạo dự kiến mở được đề cập trong bảng?
+Đào tạo tiến sĩ được triển khai ở đâu và có những trường hợp ngoại lệ nào?
+Ai quyết định việc tiếp nhận nghiên cứu sinh chuyển tới các đơn vị đào tạo trực thuộc Đại học Quốc gia Hà Nội?
+Luận án được đánh giá bằng hình thức nào và có bao nhiêu mức đánh giá?
+Quyết định số 3636/QĐ-ĐHQGHN có hiệu lực từ khi nào?
+Quy chế đào tạo được đề cập trong đoạn văn bản có hiệu lực từ khi nào?
+Trung tâm nào chịu trách nhiệm tổ chức triển khai các hoạt động nghiên cứu, dự báo về thị trường lao động, việc làm cho sinh viên?
+Khối kiến thức chung bắt buộc (M1) trong chương trình đào tạo đại học bao gồm những học phần nào?
+Theo văn bản, một trong những tiêu chí đánh giá chất lượng luận án tiến sĩ là gì?
+Yêu cầu về thành viên hội đồng đánh giá luận văn là gì?
+Theo Quy chế đào tạo đại học tại Đại học Quốc gia Hà Nội, hệ thống tổ chức và quản lý đào tạo gồm mấy cấp?
+Sinh viên có khóa luận hoặc đồ án tốt nghiệp bị điểm F phải làm gì?
+Địa chỉ chính thức của trụ sở ĐHQGHN là gì?
+Số lượng chuyên gia phản biện độc lập luận án tối thiểu là bao nhiêu và họ cần đáp ứng những tiêu chuẩn nào?
+Có bao nhiêu ngành đào tạo trình độ tiến sĩ thuộc lĩnh vực Nghệ thuật được liệt kê trong Bảng 3?
+Nội dung giáo dục pháp luật cho sinh viên tập trung vào những lĩnh vực nào?
+Ai quyết định việc tuyển sinh cho hình thức học cùng lúc hai chương trình đào tạo tại Đại học Quốc gia Hà Nội?
+Điểm ngưỡng đăng ký dự tuyển vào các chương trình đào tạo tài năng, chất lượng cao do ai quy định?
+Đơn vị đào tạo huy động ai tham gia giảng dạy trong các chương trình đào tạo tài năng, chất lượng cao?
+Học phí của chương trình ĐMKTKT tại trường Đại học Công nghệ được tính như thế nào và có thay đổi như thế nào qua từng năm?
+Nghị định số 57/2017/NĐ-CP ngày 09 tháng 5 năm 2017 của Chính phủ liên quan đến chính sách miễn giảm học phí như thế nào?
+Điều 46 nêu rõ những nghĩa vụ nào của học viên?
+Quyết định số 3050/QĐ-ĐHQGHN sửa đổi, bổ sung Quyết định số 1555/QĐ-ĐHQGHN được ban hành vào ngày nào?
+Theo quy trình kỷ luật sinh viên, ai là người xem xét và đề nghị Hội đồng thi đua, khen thưởng và kỷ luật sinh viên của đơn vị đào tạo?
+Theo Điều 20, lớp khóa học được tổ chức cho đối tượng sinh viên nào và ai là người phụ trách lớp khóa học?
+Quyền lợi của cố vấn học tập và giáo viên chủ nhiệm được nêu trong văn bản là gì?
+Hình thức kỷ luật đối với sinh viên thi hộ hoặc nhờ người thi hộ là gì?
+Nội dung đánh giá kết quả rèn luyện của sinh viên bao gồm những mặt nào?
+Kinh phí từ ngân sách nhà nước cho đào tạo thạc sĩ tại Đại học Quốc gia Hà Nội được phân bổ như thế nào?
+Ai ký và đóng dấu vào bằng tốt nghiệp đại học cho sinh viên được đào tạo ở trường/khoa trực thuộc Đại học Quốc gia Hà Nội?
+Số lượng Giáo sư, Phó Giáo sư, Tiến sĩ và Tiến sĩ khoa học, Thạc sĩ tại Đại học Quốc gia Hà Nội là bao nhiêu?
+Hội đồng thẩm định cấp ĐHQGHN có bao nhiêu thành viên và cấu trúc ra sao?
+Thời gian hoạt động giảng dạy trình độ tiến sĩ do ai quy định?
+Thư mời phản biện độc lập này được phát hành vào ngày nào?
+Theo Điều 10, người học bổ sung kiến thức phải đóng học phí như thế nào?
+Bệnh viện ĐHQGHN có trách nhiệm gì đối với sinh viên?
+Môn học nào có mã số là 10?
+Có bao nhiêu ngành đào tạo trình độ thạc sĩ thuộc lĩnh vực Nghệ thuật được liệt kê trong Bảng 2?
+Những trường hợp nào dẫn đến việc thu hồi bằng tiến sĩ?
+Nếu sau khi thực hiện quy định tại khoản 4 và khoản 5, luận án vẫn không đạt yêu cầu, đơn vị đào tạo có những phương án xử lý nào?
+Sinh viên nước ngoài học tập tại Đại học Quốc gia Hà Nội có nghĩa vụ gì về mặt pháp luật?
+Quyết định số 3626/QĐ-ĐHQGHN dựa trên cơ sở pháp lý nào?
+Theo Điều 38, Quy chế này, Hội đồng thẩm định luận văn được thành lập trong những trường hợp nào?
+Giám đốc của Đại học Quốc gia Hà Nội hiện nay là ai?
+Mã đại học của Đại học Quốc gia Hà Nội là gì?
+Báo cáo này được gửi đến ai?
+Lĩnh vực 'Thực vật dược' được đánh dấu 'X' ở cột nào trong bảng dữ liệu?
+Theo Quy chế đào tạo đại học tại Đại học Quốc gia Hà Nội, những học phần ngoại ngữ chung do đơn vị nào giảng dạy?
+Ý nghĩa của các dấu 'X' trong bảng là gì?
+Nội dung giáo dục đạo đức, lối sống cho sinh viên tập trung vào những khía cạnh nào?
+Đối với sinh viên các chương trình đào tạo tài năng, chất lượng cao, đề tài khóa luận cần đáp ứng những yêu cầu gì?
+Lễ khởi công Đại học Quốc gia Hà Nội tại Hòa Lạc diễn ra vào ngày nào và ai đã chủ trì?
+Giảng viên tham gia đào tạo tài năng, chất lượng cao có trách nhiệm gì ngoài những nghĩa vụ chung?
+Việc ký bằng tiến sĩ áp dụng điều khoản nào trong Quy chế này?
+Yêu cầu chung về cấu trúc và nội dung chương trình đào tạo cần phải thể hiện rõ những điểm nào?
+Học viên có học phần điểm I phải làm gì?
+Môn học nào được liệt kê ở dòng thứ 7 của bảng dữ liệu?
+Chương trình đào tạo liên kết với cơ sở giáo dục nước ngoài do ĐHQGHN cấp bằng được thiết kế theo quy định nào?
+Theo văn bản này, "Danh mục thống kê ngành đào tạo" được định nghĩa là gì?
+Chương trình đào tạo ngành chính - ngành phụ có cấu trúc như thế nào?
+Các lớp học trực tuyến trong chương trình đào tạo thạc sĩ được phép chiếm bao nhiêu phần trăm tổng khối lượng chương trình?
+Tiêu chuẩn nào cần đáp ứng để trở thành giảng viên tham gia giảng dạy các chương trình đào tạo tài năng, chất lượng cao?
+Ký hiệu nào được sử dụng khi chưa có đủ dữ liệu để xác định điểm của một học phần vì lý do chính đáng?
+Học viên phải làm gì nếu không đạt điểm C trở lên đối với các học phần bắt buộc?
+Ai chịu trách nhiệm biên soạn ngân hàng câu hỏi của học phần?
+Sinh viên được nghỉ học tạm thời trong những trường hợp nào?
+Nếu chất lượng luận án không đạt yêu cầu, Đại học Quốc gia Hà Nội sẽ làm gì?
+Thủ trưởng đơn vị đào tạo có trách nhiệm gì liên quan đến việc xử lý vi phạm?
+Thời hạn hoàn chỉnh hồ sơ đề nghị công nhận học vị và cấp bằng thạc sĩ là bao lâu kể từ ngày học viên bảo vệ thành công luận văn/đề án tốt nghiệp?
+Nghiên cứu sinh chưa có bằng thạc sĩ phải tích lũy tối thiểu bao nhiêu tín chỉ học phần bổ sung?
+Điều kiện nào dẫn đến việc đơn vị đào tạo bị dừng tuyển sinh hoặc bị dừng việc thành lập Hội đồng đánh giá luận án và cấp bằng tiến sĩ?
+Theo Điều 44, khoản 3, giảng viên có những trách nhiệm gì?
+Theo điều khoản số 16, đơn vị đào tạo cần báo cáo những gì cho Đại học Quốc gia Hà Nội chậm nhất sau 30 ngày kể từ ngày Ban chỉ đạo tuyển sinh sau đại học phê duyệt kết quả trúng tuyển?
+Thư mời phản biện độc lập yêu cầu phản biện độc lập đánh giá những khía cạnh nào của luận án tiến sĩ?
+Ngân hàng câu hỏi của học phần cần trải qua những bước thẩm định nào trước khi được sử dụng?
+Các khóa tuyển sinh trước thời điểm Quy chế này có hiệu lực thi hành sẽ áp dụng quy định nào?
+Ai quyết định tiêu chuẩn, số lượng, thành phần, cơ cấu và thành viên tham gia Hội đồng thẩm định đề án mở ngành đào tạo?
+Theo quy định tại Chương VIII, Điều 50, việc thanh tra, kiểm tra đối với hoạt động đào tạo thạc sĩ tại Đại học Quốc gia Hà Nội được thực hiện như thế nào?
+Sinh viên tàng trữ, lưu hành, truy cập, sử dụng sản phẩm văn hóa đồi trụy hoặc tham gia các hoạt động mê tín dị đoan, hoạt động tôn giáo trái phép sẽ bị xử lý như thế nào nếu nghiêm trọng?
+Nghiên cứu sinh được đặc cách bỏ qua quy trình phản biện độc lập trong trường hợp nào?
+Trong bước 2 của việc xây dựng đề án, tổ công tác cần làm gì với chương trình đào tạo của một trường đại học nước ngoài?
+Số lượng thành viên tối thiểu trong Hội đồng đánh giá luận án tiến sĩ là bao nhiêu và bao gồm những ai?
+Sau hai khóa tốt nghiệp, đơn vị tổ chức chương trình đào tạo thí điểm phải làm gì?
+Sinh viên tài năng, chất lượng cao có nghĩa vụ gì ngoài các nghĩa vụ chung đối với sinh viên chương trình đào tạo chuẩn?
+Ai là người trực tiếp thực hiện công tác chuẩn bị và tổ chức đánh giá luận án?
+Ai chịu trách nhiệm tổ chức kỳ thi tuyển sinh?
+Theo Điều 28, các hoạt động thực hành, thực tập, nghiên cứu và trải nghiệm thực tế có thể được tổ chức ở đâu?
+Khoá luận, đồ án tốt nghiệp được chấm theo thang điểm nào và được quy đổi như thế nào?
+Chuyên khoa Nội khoa có bao nhiêu chỉ số được ghi nhận ở các cột từ 1 đến 6?
+Quyết định số 3638/QĐ-ĐHQGHN có hiệu lực từ khi nào?
+Điều kiện về cơ sở vật chất đối với các ngành đào tạo thuộc lĩnh vực Sức khỏe, Pháp luật, Khoa học giáo dục và đào tạo giáo viên là gì?
+Cán bộ hướng dẫn luận án có quyền từ chối hướng dẫn nghiên cứu sinh trong những trường hợp nào?
+Trường Đại học Công nghệ được thành lập vào ngày nào và trên cơ sở nào?
+Các môn học nào được liệt kê trong bảng có đánh dấu "X" ở cột cuối cùng?
+Thời hạn tối đa để hội đồng họp đánh giá luận văn là bao lâu, kể từ thời điểm nào?
+Hội đồng thẩm định luận án gồm bao nhiêu thành viên và có những tiêu chuẩn nào?
+Báo cáo về công tác đào tạo trình độ tiến sĩ của năm được gửi cho Đại học Quốc gia Hà Nội vào ngày nào?
+Theo điều 3, nguyên tắc nào được ưu tiên trong việc đảm bảo chất lượng và hiệu quả giáo dục?
+Theo số liệu thống kê ngày 31/12/2022, Đại học Quốc gia Hà Nội có bao nhiêu học sinh đạt giải thưởng quốc gia?
+Quyết định nêu trong văn bản có hiệu lực từ khi nào?
+Những cơ sở đầu tiên của Đại học Quốc gia Hà Nội tại Hòa Lạc được đưa vào khai thác sử dụng vào thời điểm nào?
+Ký hiệu 'X' trong việc xếp mức đánh giá học phần có nghĩa là gì?
+Theo quy định tại Chương VII, Điều 48, việc sử dụng kinh phí đào tạo thạc sĩ tại Đại học Quốc gia Hà Nội được quyết định như thế nào?
+Thành phần của Hội đồng đánh giá kết quả rèn luyện cấp khoa đối với đơn vị đào tạo thành viên gồm những ai?
+Điều kiện nào cần đáp ứng để kiến nghị bổ sung ngành mới vào Danh mục ngành thí điểm, liên quan đến ý kiến của người dạy và người học?
+Báo cáo danh sách nghiên cứu sinh bảo vệ thành công luận án có mục đích gì?
+Đối với các chương trình chỉ xét tuyển hoặc kết hợp xét tuyển và thi tuyển, phương thức tuyển sinh được xây dựng và phê duyệt ra sao?
+Theo Điều 10, khoản 1 của văn bản, liên kết đào tạo được thực hiện với hình thức nào và không được thực hiện với lĩnh vực nào?
+Quy chế Công tác sinh viên tại Đại học Quốc gia Hà Nội áp dụng cho đối tượng nào?
+Phần 4 trong chương trình đào tạo tiến sĩ yêu cầu gì đối với nghiên cứu sinh?
+Địa chỉ và thông tin liên hệ của đơn vị phụ trách đánh giá điểm rèn luyện là gì?
+Điểm kiểm tra, điểm thi kết thúc học phần và điểm học phần phải được thông báo cho học viên chậm nhất bao lâu kể từ ngày thi kết thúc học phần?
+Phản biện độc lập cần đưa ra ý kiến ở những mức nào để luận án được đưa ra bảo vệ?
+Giám đốc và các Phó Giám đốc Đại học Quốc gia Hà Nội do ai bổ nhiệm và miễn nhiệm?
+Đối với ngành/chuyên ngành được tổ chức đào tạo thí điểm, quy trình đánh giá và quyết định tiếp tục hoặc chấm dứt đào tạo như thế nào?
+Nghiên cứu sinh được hưởng quyền lợi gì khi tham gia hoạt động giảng dạy và nghiên cứu khoa học?
+Mục tiêu thứ tư của việc điều chỉnh chương trình đào tạo là gì?
+Khối lượng kiến thức tối thiểu của ngành thứ hai trong chương trình đào tạo song ngành là bao nhiêu tín chỉ?
+Nếu sinh viên rút bớt học phần ngoài thời hạn quy định, điều gì sẽ xảy ra?
+Có bao nhiêu loại chương trình đào tạo thạc sĩ tại Đại học Quốc gia Hà Nội được đề cập trong văn bản?
+Quyết định số 1348/TCCB thành lập Khoa Công nghệ được ký vào ngày nào?
+Luận án tiến sĩ được định nghĩa như thế nào trong văn bản?
+Một phó giáo sư hoặc tiến sĩ khoa học được hướng dẫn độc lập tối đa bao nhiêu nghiên cứu sinh?
+Điều kiện để sinh viên được xếp loại tốt nghiệp Giỏi là gì?
+Ai chịu trách nhiệm giảng dạy học phần Ngoại ngữ tại Đại học Quốc gia Hà Nội theo Điều 27?
+Thời gian thiết kế của khóa học đào tạo chính quy đối với đào tạo cử nhân là bao nhiêu học kỳ chính?
+Sinh viên sử dụng ma túy sẽ bị xử lý như thế nào?
+Quyết định số 32/QĐ-ĐHQGHN được ban hành vào ngày nào?
+Lĩnh vực nào trong bảng dữ liệu không được đánh dấu 'X' ở bất kỳ cột nào?
+Tên văn bản được ban hành kèm theo Quyết định số 4555/QĐ-ĐHQGHN là gì?
+Khối lượng học tập tối thiểu của chương trình đào tạo thạc sĩ tại ĐHQGHN đối với người có bằng tốt nghiệp đại học thuộc cùng nhóm ngành là bao nhiêu tín chỉ?
+Chương trình đào tạo tiến sĩ của Đại học Quốc gia Hà Nội yêu cầu tối thiểu bao nhiêu tín chỉ đối với nghiên cứu sinh đã có bằng thạc sĩ?
+Nội dung thanh tra, kiểm tra đối với các đơn vị đào tạo bao gồm những gì?
+Ai phân công cán bộ hướng dẫn khóa luận, đồ án tốt nghiệp?
+Ban nào chịu trách nhiệm đầu mối thẩm định, cho phép tiếp nhận sinh viên chuyển trường tại ĐHQGHN?
+Quyết định số 4555/QĐ-ĐHQGHN dựa trên những căn cứ pháp lý nào?
+Yêu cầu của việc tự đánh giá, xếp loại công tác sinh viên tại các đơn vị đào tạo của ĐHQGHN là gì?
+Nếu hết thời hạn đình chỉ hoạt động ngành mà đơn vị không được ĐHQGHN cho phép hoạt động trở lại, đơn vị muốn tiếp tục tuyển sinh và tổ chức đào tạo phải làm gì?
+Đầu khóa học, đơn vị đào tạo phải thông báo cho sinh viên những thông tin gì?
+Theo quy định về bảo vệ và đánh giá khóa luận, đồ án tốt nghiệp, Hội đồng bảo vệ và đánh giá tối thiểu bao nhiêu thành viên?
+Sinh viên phải làm gì khi đăng ký học các học phần tự chọn?
+Đại học Quốc gia Hà Nội hoạt động theo cơ chế nào?
+Ai quyết định bảo lưu hoặc tương đương đối với các học phần khác (không cùng nội dung, thời lượng)?
+Quy chế đào tạo thạc sĩ tại Đại học Quốc gia Hà Nội được ban hành kèm theo quyết định nào?
+Ký hiệu nào được sử dụng khi chưa nhận được kết quả học tập của học viên?
+Điều kiện tốt nghiệp thạc sĩ hoặc đại học để đủ điều kiện dự tuyển vào chương trình đào tạo tiến sĩ là gì?
+Ai có thẩm quyền ra quyết định thu hồi quyết định mở ngành đào tạo?
+Về cơ sở vật chất, đơn vị đào tạo cần đáp ứng những yêu cầu nào?
+Chương trình đào tạo đại học thể hiện những nội dung gì?
+Khối lượng kiến thức tối thiểu cần có để học ngành thứ hai trong chương trình đào tạo là bao nhiêu tín chỉ?
+Theo điều khoản nào, sinh viên sẽ bị chuyển sang học chương trình đào tạo chuẩn chính quy?
+Ai là người quyết định công nhận nghiên cứu sinh và quyết định đó cần ghi rõ những thông tin gì?
+Theo Điều 13, tiểu ban chuyên môn xét tuyển nghiên cứu sinh cần có tối thiểu bao nhiêu thành viên và những thành viên đó cần đáp ứng những yêu cầu gì?
+Theo Điều 27, ai chịu trách nhiệm giảng dạy học phần Triết học tại Đại học Quốc gia Hà Nội?
+Hình thức kỷ luật nào được áp dụng đối với cán bộ coi thi, tổ chức thi, chấm thi vi phạm quy định, tùy theo mức độ vi phạm?
+Tỷ lệ giảng viên có học vị Thạc sĩ trở lên tại Đại học Quốc gia Hà Nội là bao nhiêu phần trăm?
+Ai quy định cụ thể về quy trình xây dựng đáp án, tiêu chuẩn cán bộ chấm thi, xử lý kết quả chấm thi, phúc khảo điểm thi trong kỳ thi tuyển sinh?
+Đối với người tốt nghiệp chương trình đào tạo kỹ sư, cử nhân tài năng, chất lượng cao (có khối lượng học tập đạt tối thiểu 150 tín chỉ), chương trình đào tạo thạc sĩ có thể được thiết kế trong bao lâu và với số tín chỉ tối thiểu là bao nhiêu?
+Điều kiện mở ngành đào tạo liên ngành, ngành ghép trình độ đại học, thạc sĩ, tiến sĩ được quy định cụ thể ở đâu trong văn bản?
+Chương trình đào tạo chất lượng cao, tài năng cần nhiều hơn chương trình đào tạo chuẩn bao nhiêu tín chỉ?
+Thông tin về tóm tắt luận án, những điểm mới của luận án bằng tiếng Việt và tiếng Anh hoặc tiếng nước ngoài được công bố công khai trên trang thông tin điện tử của đơn vị đào tạo trước bao lâu so với ngày họp Hội đồng?
+Ý kiến của phản biện độc lập có vai trò như thế nào trong quá trình đánh giá luận án?
+Đại học Quốc gia Hà Nội có bao nhiêu cơ sở và các cơ sở đó nằm ở những quận/huyện nào?
+Quy trình đánh giá luận án tiến sĩ của các chương trình đào tạo do Đại học Quốc gia Hà Nội cấp bằng hoặc cùng cấp bằng gồm những bước nào?
+Khi tham khảo chương trình đào tạo từ các trường đại học hàng đầu thế giới, các nguồn tham khảo được đề cập đến là gì?
+Theo quy chế, những trường hợp nào sẽ bị buộc thôi học?
+Ai là người biên soạn đề cương học phần và ai là người phê duyệt?
+ĐHQGHN được hình thành từ việc tổ chức lại những trường đại học nào?
+Liệt kê một số ngành đào tạo trình độ thạc sĩ thuộc lĩnh vực Nghệ thuật theo Bảng 2.
+Trường hợp cả hai phản biện độc lập không tán thành luận án, hoặc phản biện độc lập thứ ba không tán thành, thì luận án sẽ được xử lý như thế nào?
+Định mức học phí năm học 2024-2025 của trường Đại học Công nghệ được tìm thấy ở đâu?
+Ứng viên là công dân nước ngoài đăng ký học chương trình thạc sĩ bằng tiếng Việt cần đáp ứng điều kiện gì?
+Việc để sinh viên quay cóp trong khi thi sẽ bị xử lý như thế nào?
+Công tác hỗ trợ sinh viên của các đơn vị đào tạo bao gồm những nội dung chính nào?
+Việc đến chậm giờ quy định khi coi thi sẽ bị xử lý như thế nào?
+Nếu đơn vị đào tạo không nhận được bản nhận xét của phản biện độc lập sau thời gian tối đa 3 tháng, thì sẽ như thế nào?
+Nếu luận án không đạt yêu cầu tại đơn vị chuyên môn, quy trình tiếp theo sẽ như thế nào?
+Theo văn bản, ai có trách nhiệm giữ bí mật về việc đọc và viết nhận xét luận án?
+Chất lượng luận án đạt yêu cầu thẩm định khi nào?
+Nghiên cứu sinh cần hoàn thành các học phần trong chương trình đào tạo tiến sĩ trong bao lâu kể từ khi có quyết định công nhận nghiên cứu sinh?
+Thời hạn bảo lưu kết quả học phần là bao lâu?
+Đại học Quốc gia Hà Nội có trách nhiệm gì đối với hồ sơ quá trình đào tạo của nghiên cứu sinh?
+Học phần ở trình độ tiến sĩ đạt yêu cầu khi đạt điểm nào trở lên?
+Nếu công chức, viên chức, người lao động tham gia quản lý, giảng dạy, hướng dẫn, đánh giá luận văn vi phạm Quy chế này, họ sẽ phải đối mặt với hình phạt nào?
+Vào ngày nào trong năm, đơn vị đào tạo báo cáo Đại học Quốc gia Hà Nội danh sách nghiên cứu sinh đã bảo vệ luận án trong 2 tháng trước đó (theo mẫu tại Phụ lục III)?
+Ban nào có chức năng tham mưu, giúp việc cho Giám đốc ĐHQGHN về công tác sinh viên?
+Theo Điều 35, mỗi học viên có bao nhiêu người hướng dẫn luận văn và yêu cầu về trình độ của người hướng dẫn là gì?
+Loại học lực được dùng để làm gì?
+Đối với đào tạo chính quy và vừa làm vừa học, tối đa bao nhiêu phần trăm tổng khối lượng chương trình đào tạo được thực hiện bằng lớp học trực tuyến?
+Theo Quy chế, công tác sinh viên bao gồm những hoạt động nào?
+Theo Điều 34, học viên theo học chương trình định hướng nghiên cứu phải thực hiện luận văn với khối lượng bao nhiêu tín chỉ?
+Quyết định số 702/QĐ-TTg phê duyệt điều chỉnh quy hoạch chung Đại học Quốc gia Hà Nội tại Hòa Lạc được ban hành vào ngày nào?
+Về tổ chức bộ máy quản lí, đơn vị đào tạo cần đáp ứng những yêu cầu nào?
+Theo Điều 13, chuẩn đầu ra về trình độ ngoại ngữ được quy định như thế nào đối với các chương trình đào tạo tài năng, chất lượng cao?
+Luận án cần có cam đoan gì của nghiên cứu sinh và yêu cầu về phần trình bày kết quả nghiên cứu?
+Lĩnh vực nào được đánh dấu X ở dòng 29?
+Theo Điều 11, đơn vị đào tạo phải công bố thông báo tuyển sinh chậm nhất bao lâu trước mỗi kỳ tuyển sinh?
+Có bao nhiêu mức đánh giá đối với luận án tiến sĩ được đề cập trong văn bản?
+Hồ sơ sinh viên khi nhập trường cần những gì?
+Tổng điểm chuẩn chung về rèn luyện cho sinh viên không vi phạm nội quy là bao nhiêu?
+Nhiệm kỳ của ban cán sự lớp khóa học là bao lâu?
+Chương trình đào tạo trình độ đại học có thể được sắp xếp theo những cách nào?
+Trách nhiệm pháp lý của đơn vị chủ trì đào tạo và đơn vị phối hợp đào tạo trong hợp đồng liên kết đào tạo được nêu rõ như thế nào?
+Quyết định số 798/QĐ-ĐHCN có hiệu lực từ khi nào?
+Thời gian hoàn thành việc chấm thi và công bố điểm học phần chậm nhất là bao lâu kể từ ngày tổ chức thi kết thúc học phần?
+Thời hạn công nhận tốt nghiệp và cấp bằng đại học là bao lâu?
+Quyết định số 3638/QĐ-ĐHQGHN thay thế cho những quyết định nào trước đó?
+Trong thời gian bao lâu, đơn vị đào tạo phải báo cáo Đại học Quốc gia Hà Nội về kết quả kiểm tra, thẩm định?
+Sinh viên có được dự thi kết thúc học phần nếu chưa có điểm đánh giá bộ phận không? Điều kiện nào cần thỏa mãn để được dự thi?
+Đại học Quốc gia Hà Nội có bao nhiêu cấp quản lý hành chính?
+Đại học Quốc gia Hà Nội hiện đang triển khai bao nhiêu chương trình đào tạo đại học, thạc sĩ, tiến sĩ?
+Toàn bộ hồ sơ buổi bảo vệ luận án mật được quản lý theo quy định nào?
+Hội đồng đánh giá luận án sẽ không họp trong trường hợp nào liên quan đến số lượng thành viên Hội đồng?
+Sinh viên hoàn thành chương trình học và tốt nghiệp chậm so với quy định được đánh giá rèn luyện như thế nào?
+Giảng viên gửi danh sách sinh viên được dự thi và không được dự thi về Phòng Đào tạo chậm nhất khi nào?
+Khối lượng học tập tối thiểu của chương trình đào tạo tiến sĩ tại ĐHQGHN đối với người có trình độ thạc sĩ và người có trình độ đại học thuộc cùng nhóm ngành là bao nhiêu tín chỉ?
+Lĩnh vực nào được đánh dấu X ở dòng 30?
+Lớp khóa học được tổ chức cho đối tượng nào?
+Những dân tộc thiểu số nào được xem là dân tộc thiểu số rất ít người theo Nghị định số 57/2017/NĐ-CP?
+Chuyên khoa Y học dự phòng/Y tế công cộng có bao nhiêu chỉ số ở cột 5?
+Thành phần Hội đồng đánh giá luận án lần thứ hai phải đáp ứng điều kiện gì về số lượng và thành phần?
+Điều kiện về số lượng tiến sĩ giảng viên cơ hữu ngành phù hợp để mở ngành đào tạo trình độ đại học là bao nhiêu?
+Trường Đại học Tổng hợp Hà Nội được thành lập theo quyết định nào và vào thời điểm nào?
+Theo Điều 7, điều kiện nào liên quan đến số lượng và tiêu chuẩn của người hướng dẫn luận văn khi mở ngành đào tạo trình độ thạc sĩ?
+Kết quả rèn luyện được phân thành mấy loại và cụ thể là những loại nào?
+Đối với định hướng ứng dụng trong chương trình thạc sĩ, thực tập và học phần tốt nghiệp có bao nhiêu tín chỉ?
+Mục tiêu thứ nhất của việc điều chỉnh chương trình đào tạo là gì?
+Việc xét tuyển nghiên cứu sinh đối với người nước ngoài hoặc người Việt Nam định cư ở nước ngoài được thực hiện như thế nào?
+Điểm đánh giá học phần được tính toán như thế nào?
+Ngôn ngữ chính thức được sử dụng trong đào tạo thạc sĩ tại Đại học Quốc gia Hà Nội là gì?  Việc sử dụng ngôn ngữ nước ngoài được quyết định như thế nào?
+Sinh viên chương trình đào tạo tài năng, chất lượng cao được hưởng những quyền lợi gì ngoài quyền lợi chung?
+Sinh viên bị đình chỉ học tập có thời hạn cần làm gì khi hết thời hạn đình chỉ để được tiếp nhận vào học tiếp?
+Nghiên cứu sinh có được phép tìm hiểu hoặc tiếp xúc với phản biện độc lập trước khi bảo vệ luận án không?
+Theo đoạn văn bản, các đơn vị đào tạo có trách nhiệm công bố công khai những thông tin nào trên trang thông tin điện tử?
+Theo Điều 10, khoản 3, mục b của văn bản, từ khóa tuyển sinh năm 2024, đơn vị phối hợp đào tạo cần đáp ứng điều kiện gì về chất lượng?
+Sinh viên bị buộc thôi học trong những trường hợp nào?
+Hiện nay, Trường Đại học Công nghệ có bao nhiêu khoa và viện đào tạo trực thuộc?
+Điểm số từ bao nhiêu đến bao nhiêu được xếp loại xuất sắc về kết quả rèn luyện?
+Quyết định số 4280/QĐ-ĐHQGHN sửa đổi, bổ sung Quyết định số 1555/QĐ-ĐHQGHN được ban hành vào ngày nào?
+Điều gì sẽ xảy ra với các thành tích đặc biệt xuất sắc khác không được đề cập trong quy định này?
+Thời gian đào tạo chuẩn trình độ tiến sĩ đối với người có bằng thạc sĩ và người chưa có bằng thạc sĩ là bao lâu?
+Những trường hợp nào học viên được cho thôi học?
+Theo Pháp lệnh ưu đãi người có công với cách mạng, những đối tượng nào được miễn 100% học phí (theo mức trần học phí hệ chuẩn)?
+Biên bản buổi bảo vệ luận án cần được ai thông qua và xác nhận?
+Theo điều kiện ra đề thi, người ra đề thi phải đáp ứng những điều kiện chuyên môn nào?
+Sinh viên vi phạm quy định kỷ luật phòng thi sẽ bị xử lý như thế nào?
+Số vốn ước tính cho dự án xây dựng Đại học Quốc gia Hà Nội tại Hòa Lạc theo Quyết định số 1404/QĐ-TTg là bao nhiêu?
+Theo Điều 12, ai quyết định thành lập Ban chỉ đạo tuyển sinh sau đại học của Đại học Quốc gia Hà Nội?
+Sinh viên buôn bán, vận chuyển, tàng trữ, lôi kéo người khác sử dụng ma túy sẽ bị xử lý như thế nào?
+Chế tài đối với người học chậm hoặc nợ học phí theo Quyết định số 131/QĐ-CTSV là gì?
+Trách nhiệm của giảng viên theo Luật Giáo dục, Luật Giáo dục đại học, Luật Viên chức và pháp luật có liên quan là gì?
+Ai là Giám đốc đầu tiên của Đại học Quốc gia Hà Nội trong danh sách được cung cấp và thời gian giữ chức?
+Luận án tiến sĩ phải đáp ứng yêu cầu nào về đóng góp khoa học?
+Ai chịu trách nhiệm thanh tra, kiểm tra việc thực hiện quy chế đào tạo của các đơn vị đào tạo thuộc Đại học Quốc gia Hà Nội?
+Đoạn văn bản đề cập đến những hình thức xử lý kỷ luật nào đối với sinh viên?
+Sinh viên học đồng thời hai chương trình đào tạo được đánh giá rèn luyện như thế nào?
+Học phần bổ sung tối thiểu trong chương trình đào tạo tiến sĩ đối với nghiên cứu sinh chưa có bằng thạc sĩ là bao nhiêu tín chỉ?
+Làm thế nào để xem xét công nhận các học phần có cùng nội dung, thời lượng mà sinh viên chuyển trường trong và ngoài Đại học Quốc gia Hà Nội?
+Điều kiện về kinh nghiệm nghiên cứu đối với thí sinh dự tuyển chương trình đào tạo tiến sĩ là gì?
+Thời lượng tín chỉ tối thiểu của chương trình đào tạo chuẩn cho cử nhân, kĩ sư, dược sĩ và bác sĩ là bao nhiêu?
+Sinh viên vắng mặt trong buổi thi kết thúc học phần không có lý do chính đáng sẽ được xử lý như thế nào?
+Hậu quả đối với đơn vị đào tạo nếu vi phạm Quy chế này là gì?
